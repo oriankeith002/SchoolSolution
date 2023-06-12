@@ -1,0 +1,9 @@
+Dev_support.txt
+db.sqlite3
+*.log
+*.pyc
+__pycache__
+
+media/
+dev_env/
+
